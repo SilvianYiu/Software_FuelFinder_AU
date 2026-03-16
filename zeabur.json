@@ -1,0 +1,5 @@
+{
+  "build_command": "npm install --legacy-peer-deps && npm run build",
+  "start_command": "npm start",
+  "node_version": "20"
+}
